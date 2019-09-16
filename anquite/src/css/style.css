@@ -1,0 +1,29 @@
+/* style.css */
+#base-div {
+  text-align: center;
+  height: 100vh;
+}
+.q-title {
+  margin: 100px 0;
+  font-size: 3em;
+  font-weight: bold;
+}
+.s-btn {
+  float: left;
+  color: #fff;
+  font-size: 2em;
+  height: 150px;
+  width: 250px;
+  margin: 0 10%;
+  border-radius: 50%;
+}
+.r-btns {
+  display: flex;
+  justify-content: center;
+}
+.yes {
+  background-color: #3498db;
+}
+.no {
+  background-color: #e74c3c;
+}
